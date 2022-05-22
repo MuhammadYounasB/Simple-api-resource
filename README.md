@@ -2,10 +2,9 @@
 
 Simpler api of user with posts using laravel 7.
 
-Download repository then use **composer install** command in project folder terminal to install required modules.
+Download repository then use **composer install** command in project folder terminal to install required modules..
 
 **Run php artisan migrate:fresh --seed** command for migration table to populate you database with fake/seeded data.
-
 
 
 
